@@ -1,1 +1,9 @@
 console.log("aqui esta la ensaladera")
+
+console.log("intrucciones")
+console.log(`
+1. lavar verduras
+2. cortar a mano la lechuga
+3. cortar el tomate en rodajas a 45* grados
+4. cortar la cebolla en rodajas
+`)
