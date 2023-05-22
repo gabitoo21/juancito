@@ -1,1 +1,1 @@
-console.log("lechuga");
+console.log("lechugan manteca");
